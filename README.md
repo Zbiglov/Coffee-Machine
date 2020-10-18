@@ -1,2 +1,2 @@
 # Coffee-Machine
-Learning java and my first GitHub repository
+Learning Java and my first GitHub repository
