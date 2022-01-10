@@ -1,4 +1,4 @@
-package machine;
+package machine.com.my.coffe;
 
 import java.util.Scanner;
 
